@@ -13,8 +13,7 @@ actions:
     link: /start
     type: primary
     
-  - text: 详细了解
-    icon: project
+  - text: 🚀详细了解
     link: /detail/
     type: primary
 
