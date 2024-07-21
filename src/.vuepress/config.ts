@@ -29,25 +29,21 @@ export default defineUserConfig({
     text: "首页",
     icon: "laptop-code",
     link: "/",
-    activeMatch: "^/$",
   },
   {
     text: "协议",
     icon: "book",
     link: "/read",
-    activeMatch: "^/$",
   },
   {
     text: "朝天工作室",
     icon: "book",
     link: "https://escateam.icu",
-    activeMatch: "^/$",
   },
   {
     text: "trss官方文档",
     icon: "signs-post",
     link: "https://trss.me",
-    activeMatch: "^/$",
   },
   ],
 
@@ -57,19 +53,16 @@ export default defineUserConfig({
     text: "首页",
     icon: "laptop-code",
     link: "/",
-    activeMatch: "^/$",
   },
   {
     text: "快速上手",
     icon: "book",
     link: "/start",
-    activeMatch: "^/$",
   },
   {
     text: "详细了解",
     icon: "project",
     link: "/detail/",
-    activeMatch: "^/$",
     collapsible: true,
     children: [
       {
