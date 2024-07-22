@@ -1,9 +1,10 @@
 # 已安装插件列表
 
-<div align="center">
 
 > [!note]
-> 按照首字母进行排序 
+> 按照首字母进行排序
+
+<div align="center">
 
 ### Git插件
 
@@ -32,21 +33,25 @@
 | 修仙插件 | 绝云间修仙V1.3.0「龙腾虎跃庆周年」 | https://gitee.com/hutao222/DDZS-XIUXIAN-V1.3.0 |
 | 椰奶插件 | 提供对Bot的一些便捷操作 | https://gitee.com/yeyang52/yenai-plugin |
 
+</div>
+
 ### JS插件（部分未公开）
 
 > [!tip]
 > 1. 本站所有js插件均==非*朝天工作室*编写==，==仅作分享交流==如果侵权请联系QQ2833598659删除
 > 2. 本站上传js文件并以本站为下载源仅是为了方便，无其他目的，我们尊重所有开发者的劳动成果
 
-| 插件名称 | 描述 | 源码链接（进去cv即可） |
+<div align="center">
+
+| 插件名称 | 描述 | 链接 |
 | ------- | ---- | ------- |
-| X抠图 | 抠图 | https://botdocs.escateam.icu/Xkoutu.js |
-| 网页截图预览 | 网页截图（需安装get-urls依赖） | https://botdocs.escateam.icu/WebView.js |
-| 看图片 | 获取图片消息原始数据 | https://botdocs.escateam.icu/kantupian.js |
-| 艾特主人回复 | 字面意思 | https://botdocs.escateam.icu/atadminreply.js |
-| 电子木鱼 | 字面意思 | https://botdocs.escateam.icu/dianzimuyu.js |
-| 广播通知 | 字面意思 | https://botdocs.escateam.icu/guanbotongzhi.js |
-| 不要艾特主人辣~ | 艾特主人触发回应 | https://botdocs.escateam.icu/dontpadmin.js |
+| X抠图 | 抠图 | <a herf="https://botdocs.escateam.icu/Xkoutu.js" downlaod><i>点击下载</i></a> |
+| 网页截图预览 | 网页截图（需安装get-urls依赖） | <a herf="https://botdocs.escateam.icu/WebView.js" downlaod><i>点击下载</i></a> |
+| 看图片 | 获取图片消息原始数据 | <a herf="https://botdocs.escateam.icu/kantupian.js" downlaod><i>点击下载</i></a> |
+| 艾特主人回复 | 字面意思 | <a herf="https://botdocs.escateam.icu/atadminreply.js" downlaod><i>点击下载</i></a> |
+| 电子木鱼 | 字面意思 | <a herf="https://botdocs.escateam.icu/dianzimuyu.js" downlaod><i>点击下载</i></a> |
+| 广播通知 | 字面意思 | <a herf="https://botdocs.escateam.icu/guanbotongzhi.js" downlaod><i>点击下载</i></a> |
+| 不要艾特主人辣~ | 艾特主人触发回应 | <a herf="https://botdocs.escateam.icu/dontpadmin.js" downlaod><i>点击下载</i></a> |
 
 </div>
 
