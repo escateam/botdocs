@@ -51,7 +51,7 @@ export default defineUserConfig({
   sidebar: [
   {
     text: "首页",
-    icon: "laptop-code",
+    icon: "lightbuld",
     link: "/",
   },
   {
@@ -61,7 +61,7 @@ export default defineUserConfig({
   },
   {
     text: "详细了解",
-    icon: "project",
+    icon: "laptop-code",
     link: "/detail/",
     collapsible: true,
     children: [
@@ -72,12 +72,12 @@ export default defineUserConfig({
       },
       {
         text: "已装插件",
-        icon: "project",
+        icon: "book",
         link: "/detail/plugins",
       },
       {
         text: "配置阅览",
-        icon: "layout",
+        icon: "book",
         link: "/detail/sys",
       },
     ],
