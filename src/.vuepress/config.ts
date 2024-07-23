@@ -74,6 +74,12 @@ export default defineUserConfig({
         text: "已装插件",
         icon: "book",
         link: "/detail/plugins",
+        children: [
+          {
+            text: "js插件",
+            link: "/js/",
+          },
+        ],
       },
       {
         text: "配置阅览",
