@@ -86,6 +86,11 @@ export default defineUserConfig({
             link: "/js/xkoutu",
           },
           {
+            text: "网页截图预览",
+            icon: "laptop-code",
+            link: "/js/webview",
+          },
+          {
             text: "看图片",
             icon: "laptop-code",
             link: "/js/kantupian",
