@@ -1,3 +1,8 @@
+# 艾特主人回复
+
+### 源代码
+
+```js
 import cfg from '../../lib/config/config.js'
 
 
@@ -58,3 +63,4 @@ export class atmaster extends plugin {
 		return false;
 	}
 }
+```

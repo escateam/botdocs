@@ -1,3 +1,8 @@
+# 不要艾特主人辣
+
+### 源代码
+
+```js
 import plugin from '../../lib/plugins/plugin.js'
 import common from '../../lib/common/common.js'
 import cfg from '../../lib/config/config.js'
@@ -34,3 +39,4 @@ export class chuo extends plugin {
         }
     }
 }
+```

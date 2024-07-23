@@ -1,3 +1,8 @@
+# 电子木鱼
+
+### 源代码
+
+```js
 import fs from 'fs';
 import common from "../../lib/common/common.js"
 
@@ -198,3 +203,4 @@ function getTodayDate() {
 
     return `${year}-${month}-${day}`;
 }
+```

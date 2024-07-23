@@ -1,3 +1,8 @@
+# 网页截图预览
+
+### 源代码
+
+```js
 import puppeteer from 'puppeteer';
 import getUrls from 'get-urls';
 import os from 'os';
@@ -392,3 +397,4 @@ function clearIntervals() {
     clearInterval(browserRestartIntervalauto);
     clearInterval(browserCloseInterval);
 }
+```

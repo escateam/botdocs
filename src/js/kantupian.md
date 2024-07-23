@@ -1,3 +1,8 @@
+# 看图片
+
+### 源代码
+
+```js
 import fetch from 'node-fetch';
 /*欢迎使用HL 看图片.js  gitee  https://gitee.com/fox-glaze*/
 export class example extends plugin {
@@ -99,3 +104,4 @@ export class example extends plugin {
     return messages;
   }
 }
+```

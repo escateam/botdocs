@@ -1,3 +1,8 @@
+# 广播通知
+
+### 源代码
+
+```js
 import plugin from '../../lib/plugins/plugin.js'
 import yaml from 'yaml'
 import { promises as fs } from 'fs'
@@ -98,3 +103,4 @@ async function 发送消息(group, message, e){
     }
     return `OK`
 }
+```
