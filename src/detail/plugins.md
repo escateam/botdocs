@@ -45,13 +45,13 @@
 
 | 插件名称 | 描述 | 链接 |
 | ------- | ---- | ------- |
-| X抠图 | 抠图 | <a herf="https://botdocs.escateam.icu/Xkoutu.js"><button>点击下载</button></a> |
-| 网页截图预览 | 网页截图（需安装get-urls依赖） | <a herf="https://botdocs.escateam.icu/WebView.js" ><button>点击下载</button></a> |
-| 看图片 | 获取图片消息原始数据 | <a herf="https://botdocs.escateam.icu/js/kantupian.js"><button>点击下载</button></a> |
-| 艾特主人回复 | 字面意思 | <a herf="https://botdocs.escateam.icu/js/atadminreply.js"><button>点击下载</button></a> |
-| 电子木鱼 | 字面意思 | <a herf="https://botdocs.escateam.icu/js/dianzimuyu.js"><button>点击下载</button></a> |
-| 广播通知 | 字面意思 | <a herf="https://botdocs.escateam.icu/js/guanbotongzhi.js"><button>点击下载</button></a> |
-| 不要艾特主人辣~ | 艾特主人触发回应 | <a herf="https://botdocs.escateam.icu/js/dontpadmin.js"><button>点击下载</button></a> |
+| X抠图 | 抠图 | <a herf="https://botdocs.escateam.icu/xkoutu.js" downlaod="X抠图.js"><button>点击下载</button></a> |
+| 网页截图预览 | 网页截图（需安装get-urls依赖） | <a herf="https://botdocs.escateam.icu/webview.js" downlaod="网页截图预览.js"><button>点击下载</button></a> |
+| 看图片 | 获取图片消息原始数据 | <a herf="https://botdocs.escateam.icu/js/kantupian.js" downlaod="看图片.js"><button>点击下载</button></a> |
+| 艾特主人回复 | 字面意思 | <a herf="https://botdocs.escateam.icu/js/atadminreply.js" downlaod="艾特主人回复.js"><button>点击下载</button></a> |
+| 电子木鱼 | 字面意思 | <a herf="https://botdocs.escateam.icu/js/dianzimuyu.js" downlaod="电子木鱼.js"><button>点击下载</button></a> |
+| 广播通知 | 字面意思 | <a herf="https://botdocs.escateam.icu/js/guanbotongzhi.js" downlaod="广播通知.js"><button>点击下载</button></a> |
+| 不要艾特主人辣~ | 艾特主人触发回应 | <a herf="https://botdocs.escateam.icu/js/dontpadmin.js" downlaod="不要艾特主人辣.js"><button>点击下载</button></a> |
 
 </div>
 
