@@ -14,7 +14,7 @@
 | 艾特主人回复 | 字面意思 | [快捷复制链接](/js/atadminreply.md) |
 | 电子木鱼 | 字面意思 | [快捷复制链接](/js/dianzimuyu.md) |
 | 广播通知 | 字面意思 | [快捷复制链接](/js/guanbotongzhi.md) |
-| 不要艾特主人辣~ | 艾特主人触发回应 | [快捷复制链接](/js/dontpadmin.md)  |
+| 不要戳主人辣~ | 戳主人回复 | [快捷复制链接](/js/dontpadmin.md)  |
 
 </div>
 

@@ -2,6 +2,13 @@
 
 ### 源代码
 
+> [!tip]
+> 使用本插件需安装get-urls依赖 <br>
+> 请在云崽根目录执行
+> ```bash
+> pnpm i get-urls -w
+> ```
+
 ```js
 import puppeteer from 'puppeteer';
 import getUrls from 'get-urls';

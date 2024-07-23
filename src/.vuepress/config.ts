@@ -51,7 +51,7 @@ export default defineUserConfig({
   sidebar: [
   {
     text: "首页",
-    icon: "lightbuld",
+    icon: "home",
     link: "/",
   },
   {
@@ -76,8 +76,39 @@ export default defineUserConfig({
         link: "/detail/plugins",
         children: [
           {
-            text: "js插件",
+            text: "js插件列表",
+            icon: "laptop-code",
             link: "/js/",
+          },
+          {
+            text: "X抠图",
+            icon: "laptop-code",
+            link: "/js/xkoutu",
+          },
+          {
+            text: "看图片",
+            icon: "laptop-code",
+            link: "/js/kantupian",
+          },
+          {
+            text: "艾特主人回复",
+            icon: "laptop-code",
+            link: "/js/atadminreply",
+          },
+          {
+            text: "电子木鱼",
+            icon: "laptop-code",
+            link: "/js/dianzimuyu",
+          },
+          {
+            text: "广播通知",
+            icon: "laptop-code",
+            link: "/js/guangbotongzhi",
+          },
+          {
+            text: "不要戳主人啦~",
+            icon: "laptop-code",
+            link: "/js/dontpadmin",
           },
         ],
       },
