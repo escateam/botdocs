@@ -146,7 +146,11 @@ export default defineUserConfig({
     },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: [
+        "Badge",
+        "VPCard",
+        "BiliBili",
+      ],
     },
     mdEnhance: {
       alert: true,
