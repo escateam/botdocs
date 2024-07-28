@@ -27,9 +27,7 @@
 > 如果您想要登录的QQ是`114514`，那么您就应该输`#LA设置114514`
 2. 等待机器人返回二维码，扫码登陆即可
 
-**视频教程**
-
-<BliBili bvid="BV1cevLebEYg" />
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112858603981285&bvid=BV1cevLebEYg&cid=500001629397667&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 :::::: details 传统方法（不推荐，但是更稳定）
 
@@ -99,3 +97,6 @@
 > [!caution]
 > 1. 您登录的微信**必须完成实名认证**，否则将*无法登录*
 > 2. 您 ==不应该在网页端微信登录您的代挂账号== ，这将导致顶号情况出现，如果您想要继续代挂，您需要**重新登录**
+
+
+<Share colorful />

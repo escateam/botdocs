@@ -36,3 +36,5 @@
 </div>
 
 ### [JS插件](/js/)
+
+<Share colorful />

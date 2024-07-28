@@ -14,3 +14,5 @@
 | 下行带宽 | 300M |
 
 </div>
+
+<Share colorful />

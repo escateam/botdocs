@@ -6,3 +6,5 @@
 - [**云崽配置**](/detail/sys)
 
 </div>
+
+<Share colorful />

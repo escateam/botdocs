@@ -176,7 +176,6 @@ export default defineUserConfig({
       mark: true,
       tasklist: true,
       footnote: true,
-      tabs: true,
       spoiler: true,
       chart: true,
       markmap: true,
