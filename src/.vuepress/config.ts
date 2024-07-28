@@ -146,10 +146,20 @@ export default defineUserConfig({
     },
 
     components: {
+      // 你想使用的组件
       components: [
+        "ArtPlayer",
         "Badge",
-        "VPCard",
         "BiliBili",
+        "CodePen",
+        "PDF",
+        "Share",
+        "SiteInfo",
+        "StackBlitz",
+        "VPBanner",
+        "VPCard",
+        "VidStack",
+        "XiGua",
       ],
     },
     mdEnhance: {
