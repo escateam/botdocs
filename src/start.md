@@ -29,6 +29,11 @@
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112858603981285&bvid=BV1cevLebEYg&cid=500001629397667&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+> [!tip]
+> 如何使用？ <br>
+> 1. 发送“希希”验证登录是否成功/机器人是否在线
+> 2. 发送“帮助”查看全部功能
+
 :::::: details 传统方法（不推荐，但是更稳定）
 
 ### 第一步：联系咨询
