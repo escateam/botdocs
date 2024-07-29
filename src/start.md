@@ -21,11 +21,10 @@
 
 #### 第二步：扫码登录
 具体步骤：
-1. 按照`#LA设置<QQ号>`的格式发送指令
 > [!note]
+> 按照`#LA设置<QQ号>`的格式发送指令 <br>
 > 案例：
-> 如果您想要登录的QQ是`114514`，那么您就应该输`#LA设置114514`
-2. 等待机器人返回二维码，扫码登陆即可
+> 如果您想要登录的QQ是`114514`，那么您就应该输`#LA设置114514`。然后等待机器人返回二维码，扫码登陆即可
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112858603981285&bvid=BV1cevLebEYg&cid=500001629397667&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
