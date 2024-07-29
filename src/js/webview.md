@@ -405,3 +405,5 @@ function clearIntervals() {
     clearInterval(browserCloseInterval);
 }
 ```
+
+<Share colorful />

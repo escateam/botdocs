@@ -104,3 +104,5 @@ async function 发送消息(group, message, e){
     return `OK`
 }
 ```
+
+<Share colorful />

@@ -120,3 +120,5 @@ export class SkytntPlugin extends plugin {
   }
 }
 ```
+
+<Share colorful />

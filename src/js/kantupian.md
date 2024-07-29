@@ -105,3 +105,5 @@ export class example extends plugin {
   }
 }
 ```
+
+<Share colorful />

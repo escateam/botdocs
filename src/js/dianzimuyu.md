@@ -204,3 +204,5 @@ function getTodayDate() {
     return `${year}-${month}-${day}`;
 }
 ```
+
+<Share colorful />

@@ -40,3 +40,5 @@ export class chuo extends plugin {
     }
 }
 ```
+
+<Share colorful />

@@ -64,3 +64,5 @@ export class atmaster extends plugin {
 	}
 }
 ```
+
+<Share colorful />
