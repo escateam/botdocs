@@ -36,6 +36,11 @@ export default defineUserConfig({
     link: "/read",
   },
   {
+    text: "赞助",
+    icon: "lightbuld",
+    link: "/support",
+  },
+  {
     text: "朝天工作室",
     icon: "book",
     link: "https://escateam.icu",
