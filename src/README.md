@@ -28,13 +28,7 @@ features:
 
   - title: 独享api
     details: 部分插件使用逸燧内网api接口，高质量，超快速
-  
-  - title: 极高性能
-    details: 12h6g超强性能，Linux极速响应
-     
-
-
-
+    
 copyright: 版权所有 © 2023-present 朝天工作室
 footer: Powered By EscaWorkTeam
 
