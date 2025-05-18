@@ -1,36 +1,32 @@
 ---
 home: true
-icon: home
+icon: house
 title: 主页
-heroImage: bot.png
-bgImage: false
-bgImageDark: false
+heroImage: /1.png
 heroText: 逸燧Bot代挂文档
-tagline: 逸燧机器人账号代挂服务文档
+tagline: 焕新再出发
 actions:
-  - text: 快速上手
+  - text: 立即开始
     icon: lightbulb
-    link: /start
+    link: ./guide/
     type: primary
-    
-  - text: 🚀详细了解
-    link: /detail/
-    type: primary
+
+  - text: 高级用法
+    icon: code
+    link: ./high/
 
 features:
-  - title: TRSS-Yunzai架构
-    details: 使用先进的TRSSYZ部署
-    link: https://trss.me
-
-  - title: 丰富的插件
-    details: 安装大量插件，满足用户需求
-    link: /detail/plugins
-
-  - title: 独享api
-    details: 部分插件使用逸燧内网api接口，高质量，超快速
-    
-copyright: 版权所有 © 2023-present 朝天工作室
-footer: Powered By EscaWorkTeam
+  - title: 简单
+    icon: edit
+    details: 简单易用，无需繁琐配置
+  - title: 高效
+    icon: magic
+    details: 高效稳定，快速响应
+  - title: 安全
+    icon: lock
+    details: 安全可靠，保护隐私
+  - title: 稳腚
+    icon: check
+    details: 稳定运行，持续维护
 
 ---
-
