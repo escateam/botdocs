@@ -24,8 +24,10 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: '&copy 2024-present <a href="https://escaped.icu">逸燧<a/>',
+  footer: '<img src="https://count.kjchmc.cn/get/@botdocs?theme=rule34" />',
   displayFooter: true,
+
+  copyright: '&copy 2024-present <a href="https://escaped.icu" target="_blank" >EscapedSpark 逸燧</a>',
 
   // 加密配置
   /**
@@ -127,14 +129,14 @@ export default hopeTheme({
       assets: "fontawesome-with-brands",
     },
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
-    //comment: {
-    //  provider: "Waline",
-    //  serverURL: "https://waline.escateam.icu",
+    comment: {
+      provider: "Waline",
+      serverURL: "https://waline.escateam.icu",
       //repo: "vuepress-theme-hope/giscus-discussions",
       //repoId: "R_kgDOG_Pt2A",
       //category: "Announcements",
       //categoryId: "DIC_kwDOG_Pt2M4COD69",
-    //},
+    },
 
     components: {
       components: ["Badge", "VPCard"],

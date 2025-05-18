@@ -4,7 +4,7 @@ icon: house
 title: 主页
 heroImage: /1.png
 heroText: 逸燧Bot代挂文档
-tagline: 焕新再出发
+tagline: 采用TRSS-Yunzai框架，全自助代挂
 actions:
   - text: 立即开始
     icon: lightbulb
@@ -28,5 +28,8 @@ features:
   - title: 稳腚
     icon: check
     details: 稳定运行，持续维护
+  - title: 免费
+    icon: star
+    details: 免费使用，无需付费
 
 ---
