@@ -24,7 +24,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: '<img src="https://count.kjchmc.cn/get/@botdocs?theme=rule34" />',
+  //footer: '<img src="https://count.kjchmc.cn/get/@botdocs?theme=rule34" />',
   displayFooter: true,
 
   copyright: '&copy 2024-present <a href="https://escaped.icu" target="_blank" >EscapedSpark 逸燧</a>',
@@ -129,7 +129,8 @@ export default hopeTheme({
       assets: "fontawesome-with-brands",
     },
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
-    comment: {
+    /**
+     * comment: {
       provider: "Waline",
       serverURL: "https://waline.escateam.icu",
       //repo: "vuepress-theme-hope/giscus-discussions",
@@ -137,6 +138,8 @@ export default hopeTheme({
       //category: "Announcements",
       //categoryId: "DIC_kwDOG_Pt2M4COD69",
     },
+     */
+    
 
     components: {
       components: ["Badge", "VPCard"],

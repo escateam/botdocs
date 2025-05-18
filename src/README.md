@@ -33,3 +33,5 @@ features:
     details: 免费使用，无需付费
 
 ---
+
+![访问量统计](https://count.kjchmc.cn/get/@botdocs?theme=rule34)
