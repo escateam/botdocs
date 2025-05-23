@@ -7,4 +7,16 @@ export default navbar([
     icon: "code",
     link: "https://gitee.com/TimeRainStarSky/Yunzai"
   },
+  {
+    text: "关于",
+    icon: "info",
+    prefix: "about",
+    link: "about"
+  },
+  {
+    text: "友情链接",
+    icon: "link",
+    prefix: "link",
+    link: "link"
+  }
 ]);

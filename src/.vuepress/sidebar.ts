@@ -4,18 +4,23 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "指南",
+      text: "代挂教程",
       icon: "lightbulb",
       prefix: "guide/",
       link: "guide/",
       children: "structure",
     },
     {
-      text: "案例",
-      icon: "laptop-code",
-      prefix: "high/",
-      link: "high/",
-      children: "structure",
+      text: "配置信息",
+      icon: "sliders",
+      prefix: "infos/",
+      link: "infos",
     },
+    {
+      text: "服务条款",
+      icon: "lock",
+      prefix: "limit",
+      link: "limit"
+    }
   ],
 });

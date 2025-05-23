@@ -1,5 +1,7 @@
 import { defineUserConfig } from "vuepress";
+import { getDirname, path } from "vuepress/utils";
 
+const __dirname = getDirname(import.meta.url);
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -19,6 +21,10 @@ export default defineUserConfig({
   description: "适用于逸燧Bot的代挂文档",
 
   theme,
+
+  alias: {
+    "@pluginList": path.resolve(__dirname, "components/pluginList.vue"),
+  },
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,

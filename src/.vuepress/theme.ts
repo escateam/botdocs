@@ -52,6 +52,7 @@ export default hopeTheme({
 
   // 此处开启了很多功能用于演示，你应仅保留用到的功能。
   markdown: {
+    alert: true,
     align: true,
     attrs: true,
     codeTabs: true,
@@ -131,18 +132,30 @@ export default hopeTheme({
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     /**
      * comment: {
-      provider: "Waline",
-      serverURL: "https://waline.escateam.icu",
-      //repo: "vuepress-theme-hope/giscus-discussions",
-      //repoId: "R_kgDOG_Pt2A",
-      //category: "Announcements",
-      //categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
+     *       provider: "Waline",
+     *       serverURL: "https://waline.escateam.icu",
+     *       //repo: "vuepress-theme-hope/giscus-discussions",
+     *       //repoId: "R_kgDOG_Pt2A",
+     *       //category: "Announcements",
+     *       //categoryId: "DIC_kwDOG_Pt2M4COD69",
+     *     },
      */
-    
+
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: [
+        "ArtPlayer",
+        "Badge",
+        "BiliBili",
+        "CodePen",
+        "PDF",
+        "Share",
+        "SiteInfo",
+        "StackBlitz",
+        "VPBanner",
+        "VPCard",
+        "VidStack",
+      ],
     },
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
