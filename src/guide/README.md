@@ -1,9 +1,9 @@
 ---
-title: 基础用法指南
+title: 代挂教程
 index: false
 icon: laptop-code
 category:
-  - 基础用法
+  - 教程
 ---
 
 <Catalog />

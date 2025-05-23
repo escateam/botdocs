@@ -11,7 +11,7 @@ actions:
     link: ./guide/
     type: primary
 
-  - text: 高级用法
+  - text: 配置信息
     icon: code
     link: ./high/
 
@@ -30,7 +30,7 @@ features:
     details: 稳定运行，持续维护
   - title: 免费
     icon: star
-    details: 免费使用，无需付费
+    details: 公益项目，无需付费
 
 ---
 
