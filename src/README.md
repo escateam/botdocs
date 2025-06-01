@@ -35,5 +35,3 @@ features:
 ---
 
 ![访问量统计](https://count.kjchmc.cn/get/@botdocs?theme=rule34)
-
-<iframe src="https://afdian.com/leaflet?slug={EscapedSpark}" width="640" scrolling="no" height="200" frameborder="0"></iframe>
