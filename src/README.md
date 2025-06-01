@@ -34,6 +34,6 @@ features:
 
 ---
 
-<iframe src="https://afdian.com/leaflet?slug={EscapedSpark}" width="640" scrolling="no" height="200" frameborder="0"></iframe>
+<a href="https://afdian.com/a/EscapedSpark">< img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
 
 ![访问量统计](https://count.kjchmc.cn/get/@botdocs?theme=rule34)
