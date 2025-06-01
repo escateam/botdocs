@@ -16,7 +16,7 @@ icon: link
 
 <VPCard 
   title="朝天工作室"
-  desc="「我思故我在，一念定乾坤」"
+  desc="「自由朝天，向心出发」"
   logo="https://escateam.icu/logo.png"
   link="https://escateam.icu"
   background="rgba(138, 211, 253, 0.15)"
