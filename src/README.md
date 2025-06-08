@@ -13,7 +13,7 @@ actions:
 
   - text: 配置信息
     icon: code
-    link: ./high/
+    link: ./infos/
 
 features:
   - title: 简单
