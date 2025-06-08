@@ -34,4 +34,6 @@ features:
 
 ---
 
+[![讨饭](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.com/a/EscapedSpark)
+
 ![访问量统计](https://count.kjchmc.cn/get/@botdocs?theme=rule34)
