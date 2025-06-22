@@ -1,6 +1,6 @@
 ---
 
-title: 方案二（NapcatQQ）
+title: 方案二NapcatQQ（推荐）
 
 icon: brands:qq
 

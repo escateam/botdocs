@@ -1,6 +1,6 @@
 ---
 
-title: 方案一（ICQQ）（推荐）
+title: 方案一（ICQQ）（已弃用）
 
 tag: 
   - QQ
@@ -11,6 +11,8 @@ icon: brands:qq
 order: 1
 ---
 
+> [!caution]
+> 由于公共签名api跑路，该方案`极不稳定`，如果执意继续使用，请自行寻找签名api，并使用命令`#QQ设置[QQ号]:[密码]:2:[api地址]`
 
 > [!important]
 > 在开始之前，请先完成[前置步骤](../first)
